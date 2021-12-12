@@ -4,4 +4,5 @@ były przeznaczone 2 godziny akademickie laboratoriów. Po otrzymaniu wyników z
  pokazywały poprawność modelu, a w szczególności pokazujące, że te ograniczenia są realizowane. Plik 286689przedpoprawa.zpl jest rozwiązaniem kolokwium przed poprawą, a plik 
 286689popoprawie.zpl jest poprawionym rozwiązaniem kolokwium. W repozytorium znajdują się też dane, które dostałem na kolokwium oraz dane, które wykorzystałem do testów (nazwy 
 plików .txt bez cyfr zawierają dane, którem musiałem przetestować na kolokwium, a nazwy z cyframi posiadają dane, które sam wymyśliłem). Plik MD.pdf jest plikiem z treścią zadań do
- kolokwium. Przedmiot to: Modelowanie Matematyczna - tercja: Programowanie Całkowitoliczbowe.  Zadanie rozwiązałem w języku ZIMPL.
+ kolokwium. Dokumentacja powykonawcza jest w pliku DokumentacjaZbrzeznyJakub.pdf. Przedmiot to: Modelowanie Matematyczna - tercja: Programowanie Całkowitoliczbowe.  
+Zadanie rozwiązałem w języku ZIMPL.
