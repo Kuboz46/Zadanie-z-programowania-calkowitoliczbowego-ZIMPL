@@ -1,0 +1,3 @@
+#nr dzia³u  czas
+1           3
+2           4
